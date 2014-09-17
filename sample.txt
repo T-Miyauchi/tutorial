@@ -1,2 +1,3 @@
 I am learning how to use git.
 Add modification to index.
+Create a conflict with tutorial B
